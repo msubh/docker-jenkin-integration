@@ -8,9 +8,7 @@
     <artifactId>docker-jenkin-integration</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <filename>
-        docker-jenkin-integration
-    </filename>
+    <finalName>docker-jenkin-integration</finalName>
 </build>
 
 </project>
